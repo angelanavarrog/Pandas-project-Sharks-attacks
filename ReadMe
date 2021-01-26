@@ -2,5 +2,6 @@ The hypothesis on which the project is based is as follows:  "The highest propor
 
 The dataset analyzed was downloaded from Kaggle link (https://www.kaggle.com/teajay/global-shark-attacks). 
 
-In order to reach a conclusion about the veracity of the hypothesis, I performed a cleaning of the data provided as well as an analysis of those that could cause impact on confirming or invalidating the sugested hypothesis.
-To clean the data set, we have deleted all columns that were unusefull as well as cells without relevant information.
+In order to reach a conclusion about the veracity of the hypothesis, I performed a cleaning of the data provided as well as an analysis of those that could cause impact on confirming or invalidating the sugested hypothesis. To clean the data set, we have deleted all columns that were unusefull as well as cells without relevant information.
+
+After analyze the cleaned data set, we can conclude that the hypothesis: "The highest proportion of attacks in the last century has taken place in the United States but the fatality level is lower than in the rest of the world" is met.
