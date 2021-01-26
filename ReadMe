@@ -2,4 +2,4 @@ The hypothesis on which the project is based is as follows:  "The highest propor
 
 In order to reach a conclusion about the veracity of the hypothesis, I performed a cleaning of the data provided as well as an analysis of those that could cause impact on confirming or invalidating the sugested hypothesis.
 
-The dataset analyzed was downloaded from Kaggle link (https://www.kaggle.com/teajay/global-shark-attacks)
+The dataset analyzed was downloaded from Kaggle link (https://www.kaggle.com/teajay/global-shark-attacks). To clean the data set, we have deleted all columns that were unusefull as well as cells without relevant information.
