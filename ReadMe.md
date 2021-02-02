@@ -1,4 +1,4 @@
-![portada](https://github.com/angelanavarrog/Pandas-project-Sharks-attacks/blob/main/Images/image.jpg)
+![portada](https://github.com/angelanavarrog/Pandas-project-Sharks-attacks/blob/main/Images/portada.jpg)
 
 ## Hypothesis
 
