@@ -1,3 +1,5 @@
+![portada](https://github.com/angelanavarrog/Pandas-project-Sharks-attacks/blob/main/Images/image.jpg)
+
 ## Hypothesis
 
 The hypothesis on which the project is based is as follows:  "The highest proportion of attacks in the last century has taken place in the United States but the fatality level is lower than in the rest of the world".
